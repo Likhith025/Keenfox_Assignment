@@ -1,4 +1,4 @@
-# KeenFox Intel — AI-Powered Strategy Loop 🦊📉
+# KeenFox Assignment — AI-Powered Strategy Loop 🦊📉
 
 [![Deployment](https://img.shields.io/badge/Deployment-Live-success?style=flat-square)](https://keenfox-assignment.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-15+-black?style=flat-square&logo=next.js)](https://nextjs.org/)

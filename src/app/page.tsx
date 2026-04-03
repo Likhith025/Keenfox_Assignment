@@ -150,8 +150,8 @@ export default function Dashboard() {
               <Activity className="text-blue-400 w-7 h-7 group-hover:scale-110 transition-transform" />
             </div>
             <div>
-              <h1 className="text-2xl font-black tracking-tighter text-white flex items-center gap-2">
-                KEEN<span className="text-blue-500">FOX</span> <span className="w-1.5 h-1.5 rounded-full bg-blue-500/50 animate-pulse hidden sm:block"></span> <span className="opacity-40 font-medium text-sm hidden lg:inline tracking-[0.2em] uppercase ml-2">Intelligence Dashboard</span>
+              <h1 className="text-2xl font-black tracking-tighter text-white flex items-center gap-2 uppercase">
+                KEEN<span className="text-blue-500">FOX</span> ASSIGNMENT <span className="w-1.5 h-1.5 rounded-full bg-blue-500/50 animate-pulse hidden sm:block"></span> <span className="opacity-40 font-medium text-sm hidden lg:inline tracking-[0.2em] uppercase ml-2">Intelligence Dashboard</span>
               </h1>
             </div>
           </motion.div>

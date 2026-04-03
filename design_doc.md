@@ -1,4 +1,4 @@
-# KeenFox Competitive Intelligence & Campaign Feedback System - Design Document
+# KeenFox Assignment — Design Document
 
 ## System Architecture and Data Flow Diagram
 The system is built as a unified Full-stack Next.js application, functioning as both the intelligence engine and the interactive dashboard.
