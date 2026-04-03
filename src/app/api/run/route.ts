@@ -88,6 +88,7 @@ export async function POST(req: Request) {
 
     // 3. Read previous report (if exists) for Diffing in the UI
     let previousReport: FullReport | null = null;
+    const dir = path.dirname(DATA_FILE_PATH);
     try {
       if (!fs.existsSync(dir)) {
         fs.mkdirSync(dir, { recursive: true });
